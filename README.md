@@ -3,10 +3,10 @@ It is a small project which uses transfer learning to classify the breed of the 
 The code contains the Back-end part of the project which takes image of a dog as input and displays the image and most resembling breed of that dog as output. 
 The most interesting part of this project is that you can use your friend's image as input and it will tell you which dog breed he/she resembles the most !!
 
-## Dataset:
+### Dataset:
 <a href="https://drive.google.com/drive/folders/1wIWOz_MVx8iIBLxg6kpOG3iyu5sRoaQP?usp=sharing">Click here to get dataset.</a>
 
-## Prerequisites:
+### Prerequisites:
 <ul>
   <li>Python</ii>
   <li>Python Libraries:</li>
@@ -22,7 +22,7 @@ The most interesting part of this project is that you can use your friend's imag
   </ul>
 </ul>
 
-## Usage: 
+### Usage: 
 
   <ul>
   
@@ -35,5 +35,3 @@ The most interesting part of this project is that you can use your friend's imag
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### License
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) - see the [LICENSE](LICENSE) file for details.
